@@ -23,3 +23,27 @@
 <p>2020 &copy</p>
         </body>
         </html>
+body {
+    background-color: sandybrown;
+}
+p{
+    font-family:tahoma ;
+    font-size : 15px 
+    color  black;
+
+} 
+div {background-color: whitesmoke;
+width: 820px;
+padding: 10px;
+border: 2 px solid gray   
+}
+h1{
+    font-family: tahoma;
+    font-size: 25 px;
+    color:green;    
+    text-align: center;
+    letter-spacing: 2px;
+}
+.meniu a{
+    text-decoration: none;
+}
